@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
