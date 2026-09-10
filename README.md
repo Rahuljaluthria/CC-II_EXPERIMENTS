@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
 ## Stack
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
