@@ -90,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0070-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
@@ -98,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
