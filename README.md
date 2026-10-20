@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0322-coin-change) |
@@ -72,6 +73,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -132,6 +134,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -141,4 +144,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
