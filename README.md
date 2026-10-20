@@ -13,6 +13,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
+| [0403-frog-jump](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0403-frog-jump) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0403-frog-jump) |
 | [1143-longest-common-subsequence](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
