@@ -12,6 +12,7 @@
 | [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -104,4 +107,16 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
