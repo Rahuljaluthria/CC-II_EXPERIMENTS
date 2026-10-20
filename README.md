@@ -80,4 +80,16 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rahuljaluthria/CC-II_EXPERIMENTS/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
